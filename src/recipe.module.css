@@ -1,0 +1,29 @@
+.recipe {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 15px;
+  box-shadow: 0px 5px 20px rgb(36, 36, 36);
+  margin: 20px;
+  min-width: 40%;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+
+.image {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  box-shadow: 0px 0px 10px rgb(22, 22, 22);
+  margin-bottom: 15px;
+}
+
+.ingredients2 {
+  list-style-type: disc;
+}
+
+.calories {
+  font-weight: bold;
+}
