@@ -4,4 +4,4 @@ A small recipe app that uses the edamam API to let the user search for recipes a
 
 # See it live
 
-https://react-recipe-app-beto.herokuapp.com/
+You can see a live version of the project on this link: https://react-recipe-app-beto.herokuapp.com/
